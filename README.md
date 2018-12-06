@@ -1,3 +1,5 @@
+# Updated for Betrayal leauge
+
 Instructions
 To use this script:
 
