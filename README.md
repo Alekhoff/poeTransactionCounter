@@ -1,6 +1,5 @@
-# Updated for Betrayal leauge
-
-Instructions
+#Instructions
+### Updated for Betrayal leauge
 To use this script:
 
 1. Login to your pathofexile.com transaction page 
