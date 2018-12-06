@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 ### Updated for Betrayal leauge
 To use this script:
 
