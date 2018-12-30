@@ -7,7 +7,17 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Vagabond")) {
+    if (myString.includes("Pitfighter")) {
+        out = 60;
+	} else if (myString.includes("Assassin")) {
+        out = 100;
+	} else if (myString.includes("Vanguard")) {
+        out = 160;
+	} else if (myString.includes("Empyrean")) {
+        out = 240;
+	} else if (myString.includes("Crucible")) {
+        out = 480;
+	} else if (myString.includes("Vagabond")) {
         out = 30;
     } else if (myString.includes("Seeker")) {
         out = 60;
