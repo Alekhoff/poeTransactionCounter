@@ -1,5 +1,5 @@
 # Instructions
-### Updated for Betrayal leauge
+### Updated for Synthesis leauge (3.6)
 To use this script:
 
 1. Login to your pathofexile.com transaction page 
