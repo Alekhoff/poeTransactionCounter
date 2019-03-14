@@ -28,7 +28,15 @@ for (var i = 0; i < elements.length; ++i) {
     } else if (myString.includes("Subjugator")) {
         out = 240;
     } else if (myString.includes("Dominator")) {
-        out = 480;
+        out = 480;	
+	} else if (myString.includes("Sunstone")) {
+        out = 30;
+	} else if (myString.includes("Sunspire")) {
+        out = 60;
+	} else if (myString.includes("Doomcrow")) {
+        out = 30;
+	} else if (myString.includes("Doomguard")) {
+        out = 60;		
 	} else if (myString.includes("Undertaker")) {
         out = 30;
 	} else if (myString.includes("Master Undertaker")) {
