@@ -7,7 +7,15 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Pitfighter")) {
+    if (myString.includes("Cult of Darkness")) {
+        out = 30;
+	}  else if (myString.includes("Cult of Apocalypse")) {
+        out = 60;
+	}  else if (myString.includes("Blood Knight")) {
+        out = 30;
+	}  else if (myString.includes("Blood Guardian")) {
+        out = 60;
+	} else if (myString.includes("Pitfighter")) {
         out = 60;
 	} else if (myString.includes("Assassin")) {
         out = 100;
