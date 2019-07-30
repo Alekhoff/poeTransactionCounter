@@ -1,9 +1,7 @@
 # Instructions
-<<<<<<< HEAD
-### Updated for Legion leauge
-=======
-### Updated for Synthesis leauge (3.6)
->>>>>>> 419e06b55414545b2cc7bd26234790c13a007e02
+
+### Updated for Legion leauge (3.7)
+
 To use this script:
 
 1. Login to your pathofexile.com transaction page 
