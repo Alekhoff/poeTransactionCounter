@@ -7,7 +7,15 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Cult of Darkness")) {
+    if (myString.includes("Sentinel")) {
+        out = 30;
+	}  else if (myString.includes("Sentinel Overlord")) {
+        out = 60;
+	}  else if (myString.includes("Lich")) {
+        out = 30;
+	}  else if (myString.includes("Bane Lich")) {
+        out = 60;
+	}  else if (myString.includes("Cult of Darkness")) {
         out = 30;
 	}  else if (myString.includes("Cult of Apocalypse")) {
         out = 60;
