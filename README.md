@@ -1,6 +1,6 @@
 # Instructions
 
-### Updated for Blight leauge (3.8)
+### Updated for Metamorph leauge (3.9)
 
 To use this script:
 

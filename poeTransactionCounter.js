@@ -7,8 +7,16 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Sentinel")) {
+    if (myString.includes("Sanctum")) {
+        out = 30;    
+	}  else if (myString.includes("Grand Sanctum")) {
+        out = 60;
+	}  else if (myString.includes("Damnation")) {
         out = 30;
+	}  else if (myString.includes("Eternal Damnation")) {
+        out = 60;
+	}  else if (myString.includes("Sentinel")) {
+        out = 30;    
 	}  else if (myString.includes("Sentinel Overlord")) {
         out = 60;
 	}  else if (myString.includes("Lich")) {
