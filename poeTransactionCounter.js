@@ -31,7 +31,17 @@ for (var i = 0; i < elements.length; ++i) {
         out = 30;
 	}  else if (myString.includes("Blood Guardian")) {
         out = 60;
-	} else if (myString.includes("Pitfighter")) {
+	} else if (myString.includes("Basilisk")) {
+        out = 60;
+	} else if (myString.includes("Crusader")) {
+        out = 100;
+	} else if (myString.includes("Eyrie")) {
+        out = 160;
+	} else if (myString.includes("Judicator")) {
+        out = 240;
+	} else if (myString.includes("Orion")) {
+        out = 480;
+    } else if (myString.includes("Pitfighter")) {
         out = 60;
 	} else if (myString.includes("Assassin")) {
         out = 100;
