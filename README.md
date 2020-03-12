@@ -1,6 +1,6 @@
 # Instructions
 
-### Updated for Metamorph leauge (3.9)
+### Updated for Delirium leauge (3.10)
 
 To use this script:
 
@@ -11,3 +11,5 @@ To use this script:
 
 Respective reddit thread:
 https://www.reddit.com/r/pathofexile/comments/6fjm8w/toola_script_i_made_that_shows_how_much_you_spent/?sort=new
+
+###### NB: This is just a fork that i keep updated because the original is abandoned, all credits go to [DanielTaranger](https://github.com/DanielTaranger/poeTransactionCounter)
