@@ -9,35 +9,35 @@ for (var i = 0; i < elements.length; ++i) {
     var out = 0;
     if (myString.includes("Fateweaver")) {
         out = 30;    
-	}  else if (myString.includes("Elite Fateweaver")) {
+	} else if (myString.includes("Elite Fateweaver")) {
         out = 60;
-	}  else if (myString.includes("Darkseer")) {
+	} else if (myString.includes("Darkseer")) {
         out = 30;
-	}  else if (myString.includes("Elder Darkseer")) {
+	} else if (myString.includes("Elder Darkseer")) {
         out = 60;
-	}  else if (myString.includes("Sanctum")) {
+	} else if (myString.includes("Sanctum")) {
         out = 30;    
-	}  else if (myString.includes("Grand Sanctum")) {
+	} else if (myString.includes("Grand Sanctum")) {
         out = 60;
-	}  else if (myString.includes("Damnation")) {
+	} else if (myString.includes("Damnation")) {
         out = 30;
-	}  else if (myString.includes("Eternal Damnation")) {
+	} else if (myString.includes("Eternal Damnation")) {
         out = 60;
-	}  else if (myString.includes("Sentinel")) {
+	} else if (myString.includes("Sentinel")) {
         out = 30;    
-	}  else if (myString.includes("Sentinel Overlord")) {
+	} else if (myString.includes("Sentinel Overlord")) {
         out = 60;
-	}  else if (myString.includes("Lich")) {
+	} else if (myString.includes("Lich")) {
         out = 30;
-	}  else if (myString.includes("Bane Lich")) {
+	} else if (myString.includes("Bane Lich")) {
         out = 60;
-	}  else if (myString.includes("Cult of Darkness")) {
+	} else if (myString.includes("Cult of Darkness")) {
         out = 30;
-	}  else if (myString.includes("Cult of Apocalypse")) {
+	} else if (myString.includes("Cult of Apocalypse")) {
         out = 60;
-	}  else if (myString.includes("Blood Knight")) {
+	} else if (myString.includes("Blood Knight")) {
         out = 30;
-	}  else if (myString.includes("Blood Guardian")) {
+	} else if (myString.includes("Blood Guardian")) {
         out = 60;
 	} else if (myString.includes("Basilisk")) {
         out = 60;
