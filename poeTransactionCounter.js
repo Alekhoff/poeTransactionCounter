@@ -7,7 +7,15 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Fateweaver")) {
+    if (myString.includes("Malice")) {
+        out = 30;    
+	} else if (myString.includes("Insatiable Malice")) {
+        out = 60;
+	} else if (myString.includes("Benevolence")) {
+        out = 30;
+	} else if (myString.includes("Divine Benevolence ")) {
+        out = 60;
+	} else if (myString.includes("Fateweaver")) {
         out = 30;    
 	} else if (myString.includes("Elite Fateweaver")) {
         out = 60;
