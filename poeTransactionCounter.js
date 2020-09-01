@@ -7,13 +7,21 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Malice")) {
+    if (myString.includes("Spellblade")) {
+        out = 30;    
+	} else if (myString.includes("Master Spellblade")) {
+        out = 60;
+	} else if (myString.includes("Eagle")) {
+        out = 30;
+	} else if (myString.includes("Imperial Eagle")) {
+        out = 60;
+	} else if (myString.includes("Malice")) {
         out = 30;    
 	} else if (myString.includes("Insatiable Malice")) {
         out = 60;
 	} else if (myString.includes("Benevolence")) {
         out = 30;
-	} else if (myString.includes("Divine Benevolence ")) {
+	} else if (myString.includes("Divine Benevolence")) {
         out = 60;
 	} else if (myString.includes("Fateweaver")) {
         out = 30;    
