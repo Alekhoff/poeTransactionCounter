@@ -1,6 +1,6 @@
 # Instructions
 
-### Updated for Harvest leauge (3.11)
+### Updated for Heist leauge (3.12)
 
 To use this script:
 
