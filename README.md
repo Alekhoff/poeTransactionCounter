@@ -1,6 +1,6 @@
 # Instructions
 
-### Updated for Delirium leauge (3.10)
+### Updated for Harvest leauge (3.11)
 
 To use this script:
 
