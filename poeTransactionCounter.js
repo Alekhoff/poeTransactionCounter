@@ -63,7 +63,17 @@ for (var i = 0; i < elements.length; ++i) {
         out = 30;
 	} else if (myString.includes("Blood Guardian")) {
         out = 60;
-	} else if (myString.includes("Basilisk")) {
+	} else if (myString.includes("Delve Core")) {
+        out = 60;
+	} else if (myString.includes("Breach Core")) {
+        out = 100;
+	} else if (myString.includes("Abyss Core")) {
+        out = 160;
+	} else if (myString.includes("Harvest Core")) {
+        out = 240;
+	} else if (myString.includes("Atlas Core")) {
+        out = 480;
+    } else if (myString.includes("Basilisk")) {
         out = 60;
 	} else if (myString.includes("Crusader")) {
         out = 100;
