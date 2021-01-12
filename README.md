@@ -1,6 +1,6 @@
 # Instructions
 
-### Updated for Heist leauge (3.12)
+### Updated for Ritual leauge and Echoes of The Atlas expansion released with patch 3.13
 
 To use this script:
 
