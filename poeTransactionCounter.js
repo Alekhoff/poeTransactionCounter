@@ -7,8 +7,16 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Spellblade")) {
+    if (myString.includes("Renegade")) {
         out = 30;    
+	} else if (myString.includes("Deadly Renegade")) {
+        out = 60;
+	} else if (myString.includes("Faithsworn")) {
+        out = 30;
+	} else if (myString.includes("Elite Faithsworn")) {
+        out = 60;
+	} else if (myString.includes("Spellblade")) {
+        out = 30;
 	} else if (myString.includes("Master Spellblade")) {
         out = 60;
 	} else if (myString.includes("Eagle")) {
