@@ -1,6 +1,6 @@
 # Instructions
 
-### Updated for Ritual leauge and Echoes of The Atlas expansion released with patch 3.13
+### Updated for Ultimatum leauge and patch 3.14
 
 To use this script:
 

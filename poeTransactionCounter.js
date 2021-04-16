@@ -7,7 +7,15 @@ for (var i = 0; i < elements.length; ++i) {
     myString = myString.trim();
 
     var out = 0;
-    if (myString.includes("Renegade")) {
+    if (myString.includes("Sun")) {
+        out = 30;    
+	} else if (myString.includes("Imperial Sun")) {
+        out = 60;
+	} else if (myString.includes("Crescent")) {
+        out = 30;
+	} else if (myString.includes("Silver Crescent")) {
+		out = 60;
+	} else if (myString.includes("Renegade")) {
         out = 30;    
 	} else if (myString.includes("Deadly Renegade")) {
         out = 60;
